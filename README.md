@@ -39,8 +39,8 @@ If the personal information of the user becomes unnecessary within 5 days after 
 
 -The information subject may contact the Privacy Officer regarding all personal information related inquiries, complaints and remedies arising from the use of 'Fasher' service (or business). 'Pet, Talk' responds quickly to inquiries from data subjects.
 
-Contact Person: Eunseok Song
-Email: 406605@naver.com
+#### Contact Person: Eunseok Song
+#### Email: 406605@naver.com
 
 
 ### 8. Privacy Policy Changes
