@@ -30,7 +30,7 @@ The information entered by the user is transferred to a separate DB after the ac
 If the personal information of the user becomes unnecessary within 5 days after the end of the retention period when the retention period of the personal information has elapsed, and personal information such as achieving the purpose of processing the personal information becomes unnecessary, the personal information is deemed unnecessary. Destroyed within 5 days from the date.
 
 
-6. Matters concerning the installation, operation and rejection of automatic collection of personal information
+### 6. Matters concerning the installation, operation and rejection of automatic collection of personal information
 
 'Pet, Talk' does not use 'cookies' that frequently store and retrieve the data subject's usage information.
 
@@ -48,4 +48,4 @@ Email: 406605@naver.com
 ① This Privacy Policy will be applied from the effective date. If there are any additions, deletions, or modifications according to the law, we will notify you by notice seven days before the change.
 
 
-9. Measures to ensure the safety of personal information 'Pet, Talk' takes the technical, administrative and physical measures necessary to ensure safety in accordance with Article 29 of the Privacy Act.
+### 9. Measures to ensure the safety of personal information 'Pet, Talk' takes the technical, administrative and physical measures necessary to ensure safety in accordance with Article 29 of the Privacy Act.
